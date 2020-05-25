@@ -1,0 +1,37 @@
+.navbar
+{
+    display:flex;
+    justify-content: space-between;
+}
+
+.navLogo
+{
+    font-size: 20pt;
+    margin: 0px 16px;
+}
+
+.navLinks
+{    
+
+   
+}
+
+.navLink
+{  
+    border: 1px solid orange;
+    padding: 10px;
+    margin: 0px 10px;
+    align-self: center;
+
+}
+.navLinks ul 
+{
+    height: 100%;
+    font-size: 17pt;
+    display:flex;
+    flex-direction: row;
+    align-items:center;
+    list-style: none;
+    margin: 0px;
+    padding: 0px;
+}
